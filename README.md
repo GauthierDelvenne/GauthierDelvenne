@@ -5,8 +5,6 @@
 
 - 🌱 J’étudie actuellement à **l’HEPL en Infographie, option Web**
 
-- 👯 Mais aussi sur le **Vieux Moulin**
-
 - 👨‍💻 Vous pouvez consulter mon portfolio [https://portfolio.gauthier-delvenne.be](https://portfolio.gauthier-delvenne.be)
 
 - 📫 Me contacter **gauthier.delvenne@student.hepl.be**
